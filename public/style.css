@@ -1,0 +1,17 @@
+.bg-pale-gold {
+  background-color: #c0b283;
+}
+
+h1.title {
+  font-size: 4em;
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.img-wrapper {
+  height: 500px;
+  background-color: #c0b283;
+  border-radius: 10px;
+  overflow: hidden;
+}
